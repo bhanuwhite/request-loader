@@ -1,5 +1,5 @@
 <b>setup </b><br>
-step - 1 : git clone  https://github.com/junnu-kamal/loader.git <br>
+step - 1 : git clone  https://github.com/bhanuwhite/loader.git <br>
 step - 2 : npm install<br>
 make sure to place style.css  globally in the project<br>
 
